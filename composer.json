@@ -1,0 +1,19 @@
+{
+    "name": "htmllc/plugin-inhype-theme-addons",
+    "repositories": [{
+        "type": "composer",
+        "url": "http://packages/"
+    }],
+    "provide": {
+        "htmllc/plugin-inhype-theme-addons": "1.0.6"
+    },
+    "version": "1.0.6",
+    "description": "plugin-inhype-theme-addons",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "inhype-theme-addons"
+    }
+}

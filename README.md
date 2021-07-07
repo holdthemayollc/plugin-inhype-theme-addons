@@ -1,0 +1,1 @@
+# plugin-inhype-theme-addons
