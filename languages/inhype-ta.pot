@@ -1,0 +1,1047 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: InHype Theme Addons Plugin\n"
+"POT-Creation-Date: 2020-01-07 16:04+0200\n"
+"PO-Revision-Date: 2016-11-14 16:20+0200\n"
+"Last-Translator: dedalx <dedalx.rus@gmail.com>\n"
+"Language-Team: MagniumThemes <support@magniumthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/cmb2-attached-posts/init.php:118
+msgid "Users"
+msgstr ""
+
+#: ../inc/cmb2-attached-posts/init.php:124
+#, php-format
+msgid "Filter %s"
+msgstr ""
+
+#: ../inc/cmb2-attached-posts/init.php:142
+#, php-format
+msgid "Available %s"
+msgstr ""
+
+#: ../inc/cmb2-attached-posts/init.php:162
+msgid "Search"
+msgstr ""
+
+#: ../inc/cmb2-attached-posts/init.php:168
+msgid "An error has occurred. Please reload the page and try again."
+msgstr ""
+
+#: ../inc/cmb2-attached-posts/init.php:169
+msgid "Find Posts or Pages"
+msgstr ""
+
+#: ../inc/cmb2-attached-posts/init.php:182
+#, php-format
+msgid "Attached %s"
+msgstr ""
+
+#: ../inc/cmb2-attached-posts/init.php:290
+msgid "Edit"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/parsers.php:42
+#: ../inc/oneclick-demo-import/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/parsers.php:67
+#: ../inc/oneclick-demo-import/importer/parsers.php:72
+#: ../inc/oneclick-demo-import/importer/parsers.php:262
+#: ../inc/oneclick-demo-import/importer/parsers.php:453
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:452
+msgid "Import Again"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:456
+msgid "Import Demo Data"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:461
+msgid "One Click InHype Theme Demo Data import"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:467
+msgid ""
+"Please register your purchase to get themes updates notifications, import "
+"theme demos and get access to premium dedicated support."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:469
+msgid "Register theme"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:763
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:821
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:894
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:916
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:939
+msgid "Widget already exists"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:988
+msgid "Imported"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:991
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:999
+msgid "No Title"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:142
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:151
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:202
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:206
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:215
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:143
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:186
+msgid "All done."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:186
+msgid "Have fun!"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:187
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:207
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:223
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:248
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:274
+msgid "Assign Authors"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:275
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:277
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:287
+msgid "Import Attachments"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:290
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:307
+msgid "Import author:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:318
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:321
+msgid "as a new user:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:329
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:331
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:332
+msgid "- Select -"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:382
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:431
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:469
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:535
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:556
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:611
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:757
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:764
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:928
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:941
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:974
+msgid "Invalid file type"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:970
+msgid "Empty filename"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1000
+#, php-format
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1006
+#, php-format
+msgid "Could not write file %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1060
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1066
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1073
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1078
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1084
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1183
+msgid "Import WordPress"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1197
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1198
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:181
+msgid "Import Revolution sliders ..."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:193
+msgid "Slider was not imported due to error."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:195
+msgid "Slider imported."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:205
+msgid "Revolution slider plugin not installed."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:22
+msgid "Category settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:28
+msgid "Enable parallax effect for category page header"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:41 ../inc/theme-metaboxes.php:249
+#: ../inc/theme-metaboxes.php:264 ../inc/theme-metaboxes.php:283
+#: ../inc/theme-metaboxes.php:298 ../inc/theme-metaboxes.php:353
+#: ../inc/theme-metaboxes.php:369 ../inc/theme-metaboxes.php:384
+msgid "Use theme settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:42
+msgid "First large then grid"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:43
+msgid "First large overlay then grid"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:44
+msgid "First large then list"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:45
+msgid "First large overlay then list"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:46
+msgid "Mixed overlays"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:47 ../inc/theme-widgets.php:163
+#: ../inc/theme-widgets.php:370
+msgid "Grid"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:48
+msgid "List"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:49
+msgid "Classic"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:50
+msgid "Grid overlay"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:51
+msgid "Mixed large and grid"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:52
+msgid "Masonry"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:67
+msgid "Post Review"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:75
+msgid "Enable review block"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:76
+msgid "Enable to show review block for post and set review settings below."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:82
+msgid "Review block image"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:93
+msgid "Review block title"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:94
+msgid "Displayed in review block header."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:101
+msgid "Review block summary"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:102
+msgid "Short summary for review."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:109
+msgid "Review accent color"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:110
+msgid "Used in review block."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:117
+msgid "Positives"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:118
+msgid "Positives list (1 per line)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:125
+msgid "Negatives"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:126
+msgid "Negatives list (1 per line)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:133
+msgid "Buy button url"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:134
+msgid "Leave empty to disable \"Where to buy\" section in review."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:141
+msgid "Buy button title"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:142
+msgid "For ex. \"Buy on Amazon\""
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:153
+msgid "Review criteria {#}"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:154
+msgid "Add review criteria"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:155
+msgid "Remove review criteria"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:164
+msgid "Criteria title"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:171
+msgid "Criteria rating (%)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:172
+msgid "Your rating for this criteria, for ex: 95 (means 95%)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:191
+msgid "Post Settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:199
+msgid "Featured post"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:200
+msgid "Post will be added to blocks that show \"Featured posts\"."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:206
+msgid "Editors Pick's post"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:207
+msgid "Post will be added to blocks that show \"Editor's Picks posts\"."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:213
+msgid "Promoted post"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:214
+msgid "Post will be added to blocks that show \"Promoted posts\"."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:220
+msgid "Disable featured image"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:221
+msgid "Don't show featured image on single post page."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:227
+msgid "Sponsored post"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:228
+msgid ""
+"Display \"Sponsored\" post badge instead of post date in posts listings."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:234
+msgid "Post summary"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:235
+msgid "Post summary list (1 per line)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:242
+msgid "Post sidebar position"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:250 ../inc/theme-metaboxes.php:354
+#: ../inc/theme-widgets.php:846
+msgid "Left"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:251 ../inc/theme-metaboxes.php:355
+#: ../inc/theme-widgets.php:848
+msgid "Right"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:252 ../inc/theme-metaboxes.php:284
+#: ../inc/theme-metaboxes.php:356 ../inc/theme-metaboxes.php:370
+msgid "Disable"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:257
+msgid "Post header layout"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:265
+msgid "In header - Style 1 (Info box)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:266
+msgid "In header - Style 2 (Image)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:267
+msgid "In header - Style 3 (2 column)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:268
+msgid "In content - Style 1 (Info box)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:269
+msgid "In content - Style 2 (Title above image)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:270
+msgid "In content - Style 3 (Title below image)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:275 ../inc/theme-metaboxes.php:361
+msgid "Small content width"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:281
+msgid ""
+"This option add left/right margins for this post without sidebar to make "
+"your content width smaller."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:285 ../inc/theme-metaboxes.php:371
+msgid "Enable"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:290
+msgid "Post header width"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:296
+msgid "This option available only for \"In header\" post header layouts."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:299 ../inc/theme-metaboxes.php:385
+msgid "Fullwidth"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:300 ../inc/theme-metaboxes.php:386
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:305
+msgid "Post views"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:306
+msgid "You can change post views counter value here."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:313
+msgid "Post likes"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:314
+msgid "You can change post likes counter value here."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:323
+msgid "Page Settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:331
+msgid "Page CSS class"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:332
+msgid ""
+"You can add CSS class to page for use with your Custom CSS code to change "
+"elements styles only on this page."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:339
+msgid "Don't display title"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:340
+msgid "Disable page title and show only page content"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:346
+msgid "Page sidebar position"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:367
+msgid ""
+"This option add left/right margins for this page without sidebar to make "
+"your content width smaller."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:376
+msgid "Page header width"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:382
+msgid "Use if you uploaded header image for page."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:393
+msgid "Header Background"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:401
+msgid "Header Background image"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:402
+msgid ""
+"Used with post header layout \"In header\" set in Theme Settings. Will be "
+"displayed in post header or transparent header."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:413
+msgid "Enable parallax effect"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:414
+msgid "For posts this effect will work only for \"In header\" layouts."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:422
+msgid "Post Formats options"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:430
+msgid "Gallery images<br> (for <i>Gallery</i> post format)."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:431
+msgid ""
+"Use this field to add your images for gallery in Gallery post format. Use "
+"SHIFT/CTRL keyboard buttons to select multiple images."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:438
+msgid "Video url<br> (for <i>Video</i> post format)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:439
+msgid ""
+"Enter a Youtube, Vimeo, Flickr, TED or Vine video page url for Video post "
+"format."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:445
+msgid "Audio url<br> (for <i>Audio</i> post format)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:446
+msgid ""
+"Enter a SoundCloud, Mixcloud, Rdio or Spotify audio page url for Audio post "
+"format."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:454
+msgid "Suggested posts for \"Worth reading\" block"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:462
+msgid "Suggested posts"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:463
+msgid ""
+"Click \"+\" or drag and drop post to \"Attached posts\" table to add it. One "
+"from selected posts will be randomly displayed in \"Worth reading\" block on "
+"single post page, if you enabled this feature in Theme Settings."
+msgstr ""
+
+#: ../inc/theme-totd.php:86
+msgid "Daily tip: "
+msgstr ""
+
+#: ../inc/theme-widgets.php:35
+msgid "Your site&#8217;s Posts List by criteria with thumbnails."
+msgstr ""
+
+#: ../inc/theme-widgets.php:36
+msgid "InHype List Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:154 ../inc/theme-widgets.php:504
+#: ../inc/theme-widgets.php:587 ../inc/theme-widgets.php:706
+msgid "Title:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:157 ../inc/theme-widgets.php:392
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:160 ../inc/theme-widgets.php:367
+msgid "Post template:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:164
+msgid "Text"
+msgstr ""
+
+#: ../inc/theme-widgets.php:165
+msgid "Shortline"
+msgstr ""
+
+#: ../inc/theme-widgets.php:166 ../inc/theme-widgets.php:372
+msgid "Overlay"
+msgstr ""
+
+#: ../inc/theme-widgets.php:167
+msgid "2 columns"
+msgstr ""
+
+#: ../inc/theme-widgets.php:171 ../inc/theme-widgets.php:376
+msgid "Posts type:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:174 ../inc/theme-widgets.php:382
+msgid "Latest"
+msgstr ""
+
+#: ../inc/theme-widgets.php:175 ../inc/theme-widgets.php:379
+msgid "Featured"
+msgstr ""
+
+#: ../inc/theme-widgets.php:176 ../inc/theme-widgets.php:380
+msgid "Editor's Picks"
+msgstr ""
+
+#: ../inc/theme-widgets.php:177 ../inc/theme-widgets.php:381
+msgid "Promoted"
+msgstr ""
+
+#: ../inc/theme-widgets.php:178
+msgid "Popular"
+msgstr ""
+
+#: ../inc/theme-widgets.php:179 ../inc/theme-widgets.php:383
+msgid "Most liked"
+msgstr ""
+
+#: ../inc/theme-widgets.php:180 ../inc/theme-widgets.php:384
+msgid "Trending"
+msgstr ""
+
+#: ../inc/theme-widgets.php:181 ../inc/theme-widgets.php:385
+msgid "Random"
+msgstr ""
+
+#: ../inc/theme-widgets.php:185 ../inc/theme-widgets.php:389
+msgid "Category ID:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:198
+msgid "Slider with posts details and different settings."
+msgstr ""
+
+#: ../inc/theme-widgets.php:199
+msgid "InHype Posts Slider"
+msgstr ""
+
+#: ../inc/theme-widgets.php:364
+msgid "Title (Leave empty to disable title):"
+msgstr ""
+
+#: ../inc/theme-widgets.php:371
+msgid "Grid short"
+msgstr ""
+
+#: ../inc/theme-widgets.php:396
+msgid "Slider autoplay"
+msgstr ""
+
+#: ../inc/theme-widgets.php:408
+msgid "Your site&#8217;s most recent comments with date."
+msgstr ""
+
+#: ../inc/theme-widgets.php:409
+msgid "InHype Recent Comments"
+msgstr ""
+
+#: ../inc/theme-widgets.php:434
+msgid "Recent Comments"
+msgstr ""
+
+#: ../inc/theme-widgets.php:507
+msgid "Number of comments to show:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:520
+msgid "Show social follow icons set in theme admin panel."
+msgstr ""
+
+#: ../inc/theme-widgets.php:521
+msgid "InHype Social Icons"
+msgstr ""
+
+#: ../inc/theme-widgets.php:546
+msgid "Subscribe and follow"
+msgstr ""
+
+#: ../inc/theme-widgets.php:605
+msgid "A list of categories."
+msgstr ""
+
+#: ../inc/theme-widgets.php:608
+msgid "InHype Categories"
+msgstr ""
+
+#: ../inc/theme-widgets.php:614
+msgid "Categories"
+msgstr ""
+
+#: ../inc/theme-widgets.php:663
+msgid "Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:710
+msgid "Show post counts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:713
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../inc/theme-widgets.php:715
+msgid "Exclude categories (ID's, comma separated):"
+msgstr ""
+
+#: ../inc/theme-widgets.php:729
+msgid "Add widget with any HTML content or shortcodes inside."
+msgstr ""
+
+#: ../inc/theme-widgets.php:731
+msgid "InHype Content"
+msgstr ""
+
+#: ../inc/theme-widgets.php:840
+msgid "Disable paddings in widget"
+msgstr ""
+
+#: ../inc/theme-widgets.php:841
+msgid "Custom padding for content:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:842
+msgid "For ex.: 10px 5px 10px 5px"
+msgstr ""
+
+#: ../inc/theme-widgets.php:843
+msgid "Text align:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:847
+msgid "Center"
+msgstr ""
+
+#: ../inc/theme-widgets.php:851
+msgid "Text color:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:852 ../inc/theme-widgets.php:854
+msgid "For example: #ffffff"
+msgstr ""
+
+#: ../inc/theme-widgets.php:853
+msgid "Background color:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:855
+msgid "Background image url:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:856
+msgid "Select background image"
+msgstr ""
+
+#: ../inc/theme-widgets.php:856
+msgid "Add background image to widget"
+msgstr ""
+
+#: ../inc/theme-widgets.php:856
+msgid "Select image"
+msgstr ""
+
+#: ../inc/theme-widgets.php:857
+msgid "Widget Title:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:860
+msgid "Content:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:861
+msgid "Add Image to content"
+msgstr ""
+
+#: ../inc/theme-widgets.php:864
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: ../inc/theme-widgets.php:866
+msgid "Button Text:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:867
+msgid "Leave empty to disable button"
+msgstr ""
+
+#: ../inc/theme-widgets.php:868
+msgid "Button URL:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:869
+msgid "Open in new tab"
+msgstr ""
+
+#: ../inhype-theme-addons.php:123 ../inhype-theme-addons.php:124
+msgid "Theme Settings"
+msgstr ""
+
+#: ../inhype-theme-addons.php:221
+msgid "Share"
+msgstr ""
+
+#: ../inhype-theme-addons.php:224
+msgid "Share with Facebook"
+msgstr ""
+
+#: ../inhype-theme-addons.php:224
+msgid "Tweet this"
+msgstr ""
+
+#: ../inhype-theme-addons.php:224
+msgid "Share with LinkedIn"
+msgstr ""
+
+#: ../inhype-theme-addons.php:224
+msgid "Pin this"
+msgstr ""
+
+#: ../inhype-theme-addons.php:224
+msgid "Share with VKontakte"
+msgstr ""
+
+#: ../inhype-theme-addons.php:224
+msgid "Share to WhatsApp"
+msgstr ""
+
+#: ../inhype-theme-addons.php:224
+msgid "Share to Telegram"
+msgstr ""
+
+#: ../inhype-theme-addons.php:224
+msgid "Share on Reddit"
+msgstr ""
+
+#: ../inhype-theme-addons.php:224
+msgid "Share by Email"
+msgstr ""
+
+#: ../inhype-theme-addons.php:662 ../inhype-theme-addons.php:682
+msgid "Dismiss this notice"
+msgstr ""
